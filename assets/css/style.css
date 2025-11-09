@@ -1,0 +1,39 @@
+:root{
+	--color-primary: #D27722;
+	--color-secondary: #FFBB7C;
+	--color-accent: #FFDBB8;
+	--color-white: #FFFFFF;
+	--color-gray: #FFF6EE;
+	--color-black: #252422;
+	--color-light-black: #2B2A28;
+
+	--font-title: 'Rubik';
+	--font-body: 'Outfit';
+	--font-accent: 'Pacifico';
+	--font-secondary: 'Kanit';
+}
+body{
+	margin: 0;
+	font-family: var(--font-body);
+	color: var(--color-light-black);
+}
+* {
+	box-sizing: border-box;
+}
+.container{
+	margin: 0 auto;
+	max-width: 1120px;
+}
+
+/* Планшет */
+@media (max-width: 1279px) {
+	.container{
+		padding: 0 40px;
+	}
+}
+/* Телефон */
+@media (max-width: 767px) {
+	.container{
+		padding: 0 16px;
+	}
+}

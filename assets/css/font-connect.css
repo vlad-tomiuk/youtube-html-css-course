@@ -1,0 +1,56 @@
+/* Rubik */
+@font-face {
+	font-family: "Rubik";
+	src: url("../fonts/Rubik/Rubik-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Rubik";
+	src: url("../fonts/Rubik/Rubik-SemiBold.ttf") format("truetype");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Outfit */
+@font-face {
+	font-family: "Outfit";
+	src: url("../fonts/Outfit/Outfit-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Outfit";
+	src: url("../fonts/Outfit/Outfit-Medium.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Outfit";
+	src: url("../fonts/Outfit/Outfit-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Pacifico */
+@font-face {
+	font-family: "Pacifico";
+	src: url("../fonts/Pacifico/Pacifico-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Kanit */
+@font-face {
+	font-family: "Kanit";
+	src: url("../fonts/Kanit/Kanit-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
